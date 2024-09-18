@@ -1,4 +1,4 @@
-<img src="https://github.com/Brian-Ndolo/Brian-Ndolo/blob/main/github-header-image.png" alt="Banner" width="100%">
+<img src="https://github.com/Brian-Ndolo/Brian-Ndolo/blob/main/github-header-image%20(1).png" alt="Banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Brian Ndolo</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
