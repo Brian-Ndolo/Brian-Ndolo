@@ -1,6 +1,6 @@
 <img src="https://github.com/Brian-Ndolo/Brian-Ndolo/blob/main/github-header-image%20(1).png" alt="Banner" width="100%">
 
-<h1 align="center">Hi 👋, I'm Brian Ndolo</h1>
+<h1 align="center">Hi 👋, </h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
