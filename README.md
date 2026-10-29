@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Brian-Ndolo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Brian" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=800&text=Hello!%20I'm%20Brian%20Ndolo" alt="Hello! I'm Brian Ndolo" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 Aspiring Full-Stack Engineer | Backend-focused | Building scalable applications and learning by doing.
 
 🔭 &nbsp;I'm currently working on **Building full-stack applications, REST APIs, and database-driven systems.**  
-🌱 &nbsp;I'm currently learning **Node.js, Express.js, PostgreSQL, MongoDB, TypeScript, and backend architecture**  
+🌱 &nbsp;I'm currently learning **Node.js, Express.js, PostgreSQL, MongoDB, TypeScript, and backend architecture.**  
 👯 &nbsp;I'm looking to collaborate on **Backend projects, REST APIs, open-source software, and full-stack applications that solve real-world problems.**  
 🤔 &nbsp;I'm looking for help with **System design, database optimization, API security, scalability, and software engineering best practices.**  
 💬 &nbsp;Ask me about **JavaScript, Git, GitHub, REST APIs, databases, and my journey into full-stack development.**  
@@ -60,21 +60,25 @@ Aspiring Full-Stack Engineer | Backend-focused | Building scalable applications 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Brian-Ndolo&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Brian-Ndolo&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Brian-Ndolo&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="Brian Ndolo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Brian-Ndolo&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Most used programming languages" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Brian-Ndolo&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Brian-Ndolo&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Brian Ndolo's contribution graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Brian-Ndolo">Brian-Ndolo</a></i></p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Brian-Ndolo">Brian Ndolo</a></i>
+</p>
+```
